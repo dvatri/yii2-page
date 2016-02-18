@@ -1,0 +1,19 @@
+{
+    "name": "tunect/yii2-page",
+    "description": "Yii2 pages extension",
+    "type": "yii2-extension",
+    "autoload": {
+        "psr-4": {
+            "tunect\\yii2page\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tunect",
+            "email": "mail@tunect.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
